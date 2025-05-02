@@ -1,0 +1,151 @@
+Train shape: (10, 400, 800)
+Test shape: (10, 400, 60)
+[                                                                      ] 0/ 9
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.22915419226731393
+Rie     Portfolio variance: 0.2476499492146597
+IW      Portfolio variance: 0.247434685250203
+Clipped Portfolio variance: 0.24520999526463205
+Shrunk  Portfolio variance: 0.1716455814728103
+Kendall Portfolio variance: 0.2501931758329494
+TMFG    Portfolio variance: 0.16722772507843486
+[=======                                                               ] 1/ 9
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.5981603520107514
+Rie     Portfolio variance: 0.6003300930304176
+IW      Portfolio variance: 0.6003718223173151
+Clipped Portfolio variance: 0.6039953049890718
+Shrunk  Portfolio variance: 0.5888870063184893
+Kendall Portfolio variance: 0.6268010208061146
+TMFG    Portfolio variance: 0.5022297896561817
+[===============                                                       ] 2/ 9
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.3763519144092621
+Rie     Portfolio variance: 0.3497986081653134
+IW      Portfolio variance: 0.3495423976841367
+Clipped Portfolio variance: 0.3550079757577297
+Shrunk  Portfolio variance: 0.28475273821514135
+Kendall Portfolio variance: 0.36158613711492843
+TMFG    Portfolio variance: 0.27294534434637485
+[=======================                                               ] 3/ 9
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.3891517939802872
+Rie     Portfolio variance: 0.1333871230588897
+IW      Portfolio variance: 0.13336662004885566
+Clipped Portfolio variance: 0.11843534479290099
+Shrunk  Portfolio variance: 0.14712280544849377
+Kendall Portfolio variance: 0.15864014920396102
+TMFG    Portfolio variance: 0.08930999679887609
+[===============================                                       ] 4/ 9
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.36011570667871406
+Rie     Portfolio variance: 0.32480822941730714
+IW      Portfolio variance: 0.3249058359894189
+Clipped Portfolio variance: 0.2926637729635525
+Shrunk  Portfolio variance: 0.2261095020067887
+Kendall Portfolio variance: 0.25184899313048903
+TMFG    Portfolio variance: 0.2696799145874058
+[======================================                                ] 5/ 9
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.24690941124833546
+Rie     Portfolio variance: 0.20029472338707588
+IW      Portfolio variance: 0.20004380604987992
+Clipped Portfolio variance: 0.17630929326380246
+Shrunk  Portfolio variance: 0.1582608018523941
+Kendall Portfolio variance: 0.19108271422156478
+TMFG    Portfolio variance: 0.12391456001942777
+[==============================================                        ] 6/ 9
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.3448814166093213
+Rie     Portfolio variance: 0.23829798119983892
+IW      Portfolio variance: 0.23678317148393896
+Clipped Portfolio variance: 0.23265312694377788
+Shrunk  Portfolio variance: 0.22245712624224312
+Kendall Portfolio variance: 0.22469489906253337
+TMFG    Portfolio variance: 0.25254217511535487
+[======================================================                ] 7/ 9
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.3370347546275898
+Rie     Portfolio variance: 0.34565998791395985
+IW      Portfolio variance: 0.3445560516531224
+Clipped Portfolio variance: 0.3299213520578413
+Shrunk  Portfolio variance: 0.24813060624921857
+Kendall Portfolio variance: 0.22352170136595612
+TMFG    Portfolio variance: 0.2723535233976477
+[==============================================================        ] 8/ 9
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.3252690851846211
+Rie     Portfolio variance: 0.39846306430800044
+IW      Portfolio variance: 0.3970989247156423
+Clipped Portfolio variance: 0.386368081807321
+Shrunk  Portfolio variance: 0.2775255323724405
+Kendall Portfolio variance: 0.29862163255900104
+TMFG    Portfolio variance: 0.33838224324579513
+
+SUMMARY STATISTICS OVER ROLLING WINDOWS
+
+STRATEGY |  METHOD |  MEAN VARIANCE       |  CV%
+---------------------------------------------------
+min_var  | Sample  | 3.56e-01 +/- 1.1e-01 | 29.7
+min_var  | Rie     | 3.15e-01 +/- 1.4e-01 | 43.0
+min_var  | IW      | 3.15e-01 +/- 1.4e-01 | 43.1
+min_var  | Clipped | 3.05e-01 +/- 1.4e-01 | 46.4
+min_var  | Shrunk  | 2.58e-01 +/- 1.3e-01 | 51.7
+min_var  | Kendall | 2.87e-01 +/- 1.4e-01 | 48.8
+min_var  | TMFG    | 2.54e-01 +/- 1.2e-01 | 48.4
+---------------------------------------------------
+---------------------------------------------------

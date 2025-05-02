@@ -1,0 +1,106 @@
+Train shape: (7, 400, 800)
+Test shape: (7, 400, 60)
+[                                                                      ] 0/ 6
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.22915419226731393
+Rie     Portfolio variance: 0.2476499492146597
+IW      Portfolio variance: 0.247434685250203
+Clipped Portfolio variance: 0.24520999526463205
+Shrunk  Portfolio variance: 0.1716455814728103
+Kendall Portfolio variance: 0.2501931758329494
+TMFG    Portfolio variance: 0.16722772507843486
+[===========                                                           ] 1/ 6
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.35319073489968167
+Rie     Portfolio variance: 0.4615222861488879
+IW      Portfolio variance: 0.4615841754295489
+Clipped Portfolio variance: 0.4500441033104088
+Shrunk  Portfolio variance: 0.30908511819817
+Kendall Portfolio variance: 0.3901979926405986
+TMFG    Portfolio variance: 0.27879965574889887
+[=======================                                               ] 2/ 6
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.4232752603908336
+Rie     Portfolio variance: 0.1891572217042431
+IW      Portfolio variance: 0.18918774045770909
+Clipped Portfolio variance: 0.17356543700727345
+Shrunk  Portfolio variance: 0.19712525958555063
+Kendall Portfolio variance: 0.23179573200958228
+TMFG    Portfolio variance: 0.15532987721870967
+[===================================                                   ] 3/ 6
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.20527355177880813
+Rie     Portfolio variance: 0.22753657265015584
+IW      Portfolio variance: 0.2273767499926258
+Clipped Portfolio variance: 0.18963235790466965
+Shrunk  Portfolio variance: 0.13377605791734967
+Kendall Portfolio variance: 0.1895746930826699
+TMFG    Portfolio variance: 0.11733859124902815
+[==============================================                        ] 4/ 6
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.40305189951433573
+Rie     Portfolio variance: 0.35991641582380174
+IW      Portfolio variance: 0.35913262437471866
+Clipped Portfolio variance: 0.361085113094494
+Shrunk  Portfolio variance: 0.324210783733544
+Kendall Portfolio variance: 0.3276328652581977
+TMFG    Portfolio variance: 0.322496201465
+[==========================================================            ] 5/ 6
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.41929628142685627
+Rie     Portfolio variance: 0.4132751943950726
+IW      Portfolio variance: 0.41250709730676993
+Clipped Portfolio variance: 0.4044370195383508
+Shrunk  Portfolio variance: 0.29807607324255725
+Kendall Portfolio variance: 0.3240086936758277
+TMFG    Portfolio variance: 0.3561657600408352
+
+SUMMARY STATISTICS OVER ROLLING WINDOWS
+
+STRATEGY |  METHOD |  MEAN VARIANCE       |  CV%
+---------------------------------------------------
+min_var  | Sample  | 3.39e-01 +/- 9.8e-02 | 28.9
+min_var  | Rie     | 3.17e-01 +/- 1.1e-01 | 34.9
+min_var  | IW      | 3.16e-01 +/- 1.1e-01 | 34.9
+min_var  | Clipped | 3.04e-01 +/- 1.2e-01 | 38.4
+min_var  | Shrunk  | 2.39e-01 +/- 8.1e-02 | 34.0
+min_var  | Kendall | 2.86e-01 +/- 7.4e-02 | 26.0
+min_var  | TMFG    | 2.33e-01 +/- 9.9e-02 | 42.5
+---------------------------------------------------
+---------------------------------------------------

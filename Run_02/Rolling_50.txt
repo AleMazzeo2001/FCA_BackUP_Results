@@ -1,0 +1,796 @@
+Train shape: (53, 400, 800)
+Test shape: (53, 400, 60)
+[                                                                      ] 0/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.22915419226731393
+Rie     Portfolio variance: 0.2476499492146597
+IW      Portfolio variance: 0.247434685250203
+Clipped Portfolio variance: 0.24520999526463205
+Shrunk  Portfolio variance: 0.1716455814728103
+Kendall Portfolio variance: 0.2501931758329494
+TMFG    Portfolio variance: 0.16722772507843486
+[=                                                                     ] 1/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.35217391656665376
+Rie     Portfolio variance: 0.4161710533191622
+IW      Portfolio variance: 0.4160843226368619
+Clipped Portfolio variance: 0.4076405349285829
+Shrunk  Portfolio variance: 0.28896833544752487
+Kendall Portfolio variance: 0.311069840854478
+TMFG    Portfolio variance: 0.30491912107615593
+[==                                                                    ] 2/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.35364385036465307
+Rie     Portfolio variance: 0.37099103029488983
+IW      Portfolio variance: 0.3710369325741275
+Clipped Portfolio variance: 0.3665875655319347
+Shrunk  Portfolio variance: 0.310064341052176
+Kendall Portfolio variance: 0.34821339568089404
+TMFG    Portfolio variance: 0.27799542519441406
+[====                                                                  ] 3/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.416666434478114
+Rie     Portfolio variance: 0.41160369325503776
+IW      Portfolio variance: 0.411707823240859
+Clipped Portfolio variance: 0.41858338668978234
+Shrunk  Portfolio variance: 0.3755554975364972
+Kendall Portfolio variance: 0.43255363762035104
+TMFG    Portfolio variance: 0.3081199223094402
+[=====                                                                 ] 4/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.37522008073704205
+Rie     Portfolio variance: 0.33860903200799974
+IW      Portfolio variance: 0.33858014078625875
+Clipped Portfolio variance: 0.3563826176521566
+Shrunk  Portfolio variance: 0.3086108123023441
+Kendall Portfolio variance: 0.37781151325754336
+TMFG    Portfolio variance: 0.31161202361577706
+[======                                                                ] 5/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.2942244523081486
+Rie     Portfolio variance: 0.3757704630334727
+IW      Portfolio variance: 0.37591831973981377
+Clipped Portfolio variance: 0.3664664916523747
+Shrunk  Portfolio variance: 0.29730923563573325
+Kendall Portfolio variance: 0.35171431253077434
+TMFG    Portfolio variance: 0.2724536126183107
+[========                                                              ] 6/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.6017708033913871
+Rie     Portfolio variance: 0.6005201652659747
+IW      Portfolio variance: 0.6004523139286442
+Clipped Portfolio variance: 0.6087224504257027
+Shrunk  Portfolio variance: 0.5956532492919271
+Kendall Portfolio variance: 0.6561900503237872
+TMFG    Portfolio variance: 0.5220026922997656
+[=========                                                             ] 7/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.28626989332543906
+Rie     Portfolio variance: 0.4169893430890377
+IW      Portfolio variance: 0.4168838620105867
+Clipped Portfolio variance: 0.4203115260131367
+Shrunk  Portfolio variance: 0.2582815072050303
+Kendall Portfolio variance: 0.3731690590065566
+TMFG    Portfolio variance: 0.22283030429377904
+[==========                                                            ] 8/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.3374105209842907
+Rie     Portfolio variance: 0.43222828112680434
+IW      Portfolio variance: 0.4322779923916379
+Clipped Portfolio variance: 0.4173090451892992
+Shrunk  Portfolio variance: 0.2939265827791797
+Kendall Portfolio variance: 0.3735358072514676
+TMFG    Portfolio variance: 0.26548373099980543
+[============                                                          ] 9/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.23621009294517417
+Rie     Portfolio variance: 0.27802827635552907
+IW      Portfolio variance: 0.27788019651385554
+Clipped Portfolio variance: 0.27178468496583574
+Shrunk  Portfolio variance: 0.2174205046211408
+Kendall Portfolio variance: 0.30767329144681066
+TMFG    Portfolio variance: 0.21683819271944588
+[=============                                                         ] 10/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.33706200100790995
+Rie     Portfolio variance: 0.31796421080426274
+IW      Portfolio variance: 0.31816608829284754
+Clipped Portfolio variance: 0.2934176676654249
+Shrunk  Portfolio variance: 0.2765744047493977
+Kendall Portfolio variance: 0.3226089147908042
+TMFG    Portfolio variance: 0.24180992663904205
+[==============                                                        ] 11/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.4150048241965619
+Rie     Portfolio variance: 0.33961648534541977
+IW      Portfolio variance: 0.3393754051034183
+Clipped Portfolio variance: 0.3421052882690069
+Shrunk  Portfolio variance: 0.27485425839413213
+Kendall Portfolio variance: 0.35282524227924145
+TMFG    Portfolio variance: 0.27524900389961615
+[================                                                      ] 12/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.40003783715042357
+Rie     Portfolio variance: 0.22189692337345254
+IW      Portfolio variance: 0.2216422483879525
+Clipped Portfolio variance: 0.22343204848940657
+Shrunk  Portfolio variance: 0.23153584929035784
+Kendall Portfolio variance: 0.27642861058798823
+TMFG    Portfolio variance: 0.20925869715251072
+[=================                                                     ] 13/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.3623155610428268
+Rie     Portfolio variance: 0.21528486304301794
+IW      Portfolio variance: 0.21511995154309663
+Clipped Portfolio variance: 0.20419128266860034
+Shrunk  Portfolio variance: 0.22870127352366137
+Kendall Portfolio variance: 0.24407202668300254
+TMFG    Portfolio variance: 0.1350531097308112
+[==================                                                    ] 14/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.3771632599588284
+Rie     Portfolio variance: 0.2245542715297099
+IW      Portfolio variance: 0.22428927463072412
+Clipped Portfolio variance: 0.21438398473971848
+Shrunk  Portfolio variance: 0.25807706846270395
+Kendall Portfolio variance: 0.2721476665390893
+TMFG    Portfolio variance: 0.16588462197505743
+[====================                                                  ] 15/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.5453214517790401
+Rie     Portfolio variance: 0.20452079833208103
+IW      Portfolio variance: 0.20475102628967884
+Clipped Portfolio variance: 0.19762614125461406
+Shrunk  Portfolio variance: 0.2833313380772393
+Kendall Portfolio variance: 0.27705072689654253
+TMFG    Portfolio variance: 0.21492608979886693
+[=====================                                                 ] 16/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.39353347716321974
+Rie     Portfolio variance: 0.16460889193838532
+IW      Portfolio variance: 0.1645434094731768
+Clipped Portfolio variance: 0.14557359401397296
+Shrunk  Portfolio variance: 0.16080850766409926
+Kendall Portfolio variance: 0.17672822086553447
+TMFG    Portfolio variance: 0.09556866420567026
+[======================                                                ] 17/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.32297906986860914
+Rie     Portfolio variance: 0.12762716081050893
+IW      Portfolio variance: 0.12742695588578612
+Clipped Portfolio variance: 0.12222754385076186
+Shrunk  Portfolio variance: 0.16509970970706866
+Kendall Portfolio variance: 0.17518043781746973
+TMFG    Portfolio variance: 0.11062047500493438
+[========================                                              ] 18/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.4288595392971061
+Rie     Portfolio variance: 0.40451520129145796
+IW      Portfolio variance: 0.40416128875088414
+Clipped Portfolio variance: 0.38629763787353566
+Shrunk  Portfolio variance: 0.3335941084918822
+Kendall Portfolio variance: 0.40000190361410837
+TMFG    Portfolio variance: 0.3184457273755124
+[=========================                                             ] 19/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.282973399181233
+Rie     Portfolio variance: 0.4119919733067891
+IW      Portfolio variance: 0.4119607814272338
+Clipped Portfolio variance: 0.3854995346100298
+Shrunk  Portfolio variance: 0.23241173130924847
+Kendall Portfolio variance: 0.3550299107816807
+TMFG    Portfolio variance: 0.31155450700303194
+[==========================                                            ] 20/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.38207325004274484
+Rie     Portfolio variance: 0.19762829484687386
+IW      Portfolio variance: 0.19794923436353984
+Clipped Portfolio variance: 0.17492488239507065
+Shrunk  Portfolio variance: 0.19524604000457868
+Kendall Portfolio variance: 0.24616484524215426
+TMFG    Portfolio variance: 0.20296743614772078
+[============================                                          ] 21/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.35457705260730754
+Rie     Portfolio variance: 0.2555710424656824
+IW      Portfolio variance: 0.2554475310461217
+Clipped Portfolio variance: 0.2491347189202265
+Shrunk  Portfolio variance: 0.23604897749829748
+Kendall Portfolio variance: 0.2569774414537562
+TMFG    Portfolio variance: 0.20934783139616098
+[=============================                                         ] 22/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.4331483809211954
+Rie     Portfolio variance: 0.489452157038611
+IW      Portfolio variance: 0.4895190880036564
+Clipped Portfolio variance: 0.45853221050127035
+Shrunk  Portfolio variance: 0.3509895276192605
+Kendall Portfolio variance: 0.4658556322320552
+TMFG    Portfolio variance: 0.4087180430482327
+[==============================                                        ] 23/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.32616895440518434
+Rie     Portfolio variance: 0.40872128507390215
+IW      Portfolio variance: 0.4084773306878322
+Clipped Portfolio variance: 0.38778033860037864
+Shrunk  Portfolio variance: 0.27713553606364094
+Kendall Portfolio variance: 0.4003038032693859
+TMFG    Portfolio variance: 0.3289909884568162
+[================================                                      ] 24/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.2534944314795394
+Rie     Portfolio variance: 0.2871657901545482
+IW      Portfolio variance: 0.2870611277230576
+Clipped Portfolio variance: 0.25018625243885806
+Shrunk  Portfolio variance: 0.1921703149934903
+Kendall Portfolio variance: 0.2401350102125392
+TMFG    Portfolio variance: 0.18389298663434667
+[=================================                                     ] 25/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.31170810892234896
+Rie     Portfolio variance: 0.3166837933433226
+IW      Portfolio variance: 0.3166241310059862
+Clipped Portfolio variance: 0.2970570319237603
+Shrunk  Portfolio variance: 0.24598560148294807
+Kendall Portfolio variance: 0.3282659221669401
+TMFG    Portfolio variance: 0.2785123520726216
+[===================================                                   ] 26/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.42849413941271264
+Rie     Portfolio variance: 0.45658997540242147
+IW      Portfolio variance: 0.45619226858531103
+Clipped Portfolio variance: 0.42157128043809633
+Shrunk  Portfolio variance: 0.3545699521369678
+Kendall Portfolio variance: 0.40066913601889415
+TMFG    Portfolio variance: 0.3393090450172217
+[====================================                                  ] 27/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.24690941124833546
+Rie     Portfolio variance: 0.20029472338707588
+IW      Portfolio variance: 0.20004380604987992
+Clipped Portfolio variance: 0.17630929326380246
+Shrunk  Portfolio variance: 0.1582608018523941
+Kendall Portfolio variance: 0.19108271422156478
+TMFG    Portfolio variance: 0.12391456001942777
+[=====================================                                 ] 28/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.5437852093099729
+Rie     Portfolio variance: 0.5527957880314179
+IW      Portfolio variance: 0.5523317149102288
+Clipped Portfolio variance: 0.5579640631087719
+Shrunk  Portfolio variance: 0.5319630005634641
+Kendall Portfolio variance: 0.5708338506675324
+TMFG    Portfolio variance: 0.46786601353943663
+[=======================================                               ] 29/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.630094038156056
+Rie     Portfolio variance: 0.6258914696170866
+IW      Portfolio variance: 0.6255498534210123
+Clipped Portfolio variance: 0.623400960328638
+Shrunk  Portfolio variance: 0.5330933444830044
+Kendall Portfolio variance: 0.5907192845186128
+TMFG    Portfolio variance: 0.5386701559898649
+[========================================                              ] 30/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.3941255182098663
+Rie     Portfolio variance: 0.35838539435035716
+IW      Portfolio variance: 0.3575085803081288
+Clipped Portfolio variance: 0.342117719641558
+Shrunk  Portfolio variance: 0.2638569210752577
+Kendall Portfolio variance: 0.22235899797544542
+TMFG    Portfolio variance: 0.27552513187036387
+[=========================================                             ] 31/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.31424650769592233
+Rie     Portfolio variance: 0.3068638203194137
+IW      Portfolio variance: 0.3061095419493097
+Clipped Portfolio variance: 0.30582319794819074
+Shrunk  Portfolio variance: 0.27007331908576054
+Kendall Portfolio variance: 0.2571534724228906
+TMFG    Portfolio variance: 0.28198313850079115
+[===========================================                           ] 32/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.4844801439433898
+Rie     Portfolio variance: 0.3125258405259585
+IW      Portfolio variance: 0.31130291257357123
+Clipped Portfolio variance: 0.3093234428368302
+Shrunk  Portfolio variance: 0.3378250917916806
+Kendall Portfolio variance: 0.3350128904391071
+TMFG    Portfolio variance: 0.28947014070049903
+[============================================                          ] 33/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.38542248528719636
+Rie     Portfolio variance: 0.24315876356506644
+IW      Portfolio variance: 0.24217516458328248
+Clipped Portfolio variance: 0.23608830901061517
+Shrunk  Portfolio variance: 0.21829571746876586
+Kendall Portfolio variance: 0.210331464735995
+TMFG    Portfolio variance: 0.2604934772098253
+[=============================================                         ] 34/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.40643423335723233
+Rie     Portfolio variance: 0.2696562200257117
+IW      Portfolio variance: 0.269268984721437
+Clipped Portfolio variance: 0.26253604784148293
+Shrunk  Portfolio variance: 0.25617123781267837
+Kendall Portfolio variance: 0.25493928007990185
+TMFG    Portfolio variance: 0.31444360355530127
+[===============================================                       ] 35/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.30564634397524937
+Rie     Portfolio variance: 0.30762392446490117
+IW      Portfolio variance: 0.30614826032595954
+Clipped Portfolio variance: 0.30167254191568404
+Shrunk  Portfolio variance: 0.2062918272896655
+Kendall Portfolio variance: 0.23835926350170838
+TMFG    Portfolio variance: 0.2654137693391092
+[================================================                      ] 36/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.3274535148539574
+Rie     Portfolio variance: 0.26462237460248283
+IW      Portfolio variance: 0.26384554329034554
+Clipped Portfolio variance: 0.26333723915660234
+Shrunk  Portfolio variance: 0.23857881819843021
+Kendall Portfolio variance: 0.23141955448745635
+TMFG    Portfolio variance: 0.2812042214983242
+[=================================================                     ] 37/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.3412332921069598
+Rie     Portfolio variance: 0.29663290505803563
+IW      Portfolio variance: 0.2951420152019728
+Clipped Portfolio variance: 0.2865604049948407
+Shrunk  Portfolio variance: 0.25055047572168165
+Kendall Portfolio variance: 0.204885496325045
+TMFG    Portfolio variance: 0.22257466428205885
+[===================================================                   ] 38/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.3275180852526739
+Rie     Portfolio variance: 0.3398073105343124
+IW      Portfolio variance: 0.3388943881385467
+Clipped Portfolio variance: 0.3257636761047359
+Shrunk  Portfolio variance: 0.2307380229717585
+Kendall Portfolio variance: 0.22564206206734339
+TMFG    Portfolio variance: 0.28716583400774187
+[====================================================                  ] 39/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.41929628142685627
+Rie     Portfolio variance: 0.4132751943950726
+IW      Portfolio variance: 0.41250709730676993
+Clipped Portfolio variance: 0.4044370195383508
+Shrunk  Portfolio variance: 0.29807607324255725
+Kendall Portfolio variance: 0.3240086936758277
+TMFG    Portfolio variance: 0.3561657600408352
+[=====================================================                 ] 40/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.48179785442194817
+Rie     Portfolio variance: 0.4479688610057071
+IW      Portfolio variance: 0.4466606585689158
+Clipped Portfolio variance: 0.4286057522390734
+Shrunk  Portfolio variance: 0.2945864024734375
+Kendall Portfolio variance: 0.28662673748122197
+TMFG    Portfolio variance: 0.2929209798982702
+[=======================================================               ] 41/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.5173910191907568
+Rie     Portfolio variance: 0.5043502371980267
+IW      Portfolio variance: 0.5028079114061845
+Clipped Portfolio variance: 0.49124126597861006
+Shrunk  Portfolio variance: 0.3835914788496001
+Kendall Portfolio variance: 0.35940988333260826
+TMFG    Portfolio variance: 0.38542152839502575
+[========================================================              ] 42/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.5354194961607182
+Rie     Portfolio variance: 0.4845512759103644
+IW      Portfolio variance: 0.4829698155075839
+Clipped Portfolio variance: 0.481175847842089
+Shrunk  Portfolio variance: 0.3848155290923002
+Kendall Portfolio variance: 0.36294545717064247
+TMFG    Portfolio variance: 0.3370271851123346
+[=========================================================             ] 43/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.3864674208189078
+Rie     Portfolio variance: 0.3792278295400324
+IW      Portfolio variance: 0.37766858845802503
+Clipped Portfolio variance: 0.37238995783774714
+Shrunk  Portfolio variance: 0.2701738065030881
+Kendall Portfolio variance: 0.28498856772169767
+TMFG    Portfolio variance: 0.2766928686481961
+[===========================================================           ] 44/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.37768887539230134
+Rie     Portfolio variance: 0.3502951748843705
+IW      Portfolio variance: 0.34913217039294353
+Clipped Portfolio variance: 0.3396466469738229
+Shrunk  Portfolio variance: 0.27613191903000867
+Kendall Portfolio variance: 0.28998610896917726
+TMFG    Portfolio variance: 0.3504365584250261
+[============================================================          ] 45/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.41729633592434173
+Rie     Portfolio variance: 0.21676277658185675
+IW      Portfolio variance: 0.21541342658620935
+Clipped Portfolio variance: 0.21026326554144656
+Shrunk  Portfolio variance: 0.23333502507020293
+Kendall Portfolio variance: 0.19687167667049396
+TMFG    Portfolio variance: 0.22177481428336687
+[=============================================================         ] 46/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.41255249495408447
+Rie     Portfolio variance: 0.23850655031752543
+IW      Portfolio variance: 0.2378169527772769
+Clipped Portfolio variance: 0.23457121440738277
+Shrunk  Portfolio variance: 0.2257073094369172
+Kendall Portfolio variance: 0.2759110936565329
+TMFG    Portfolio variance: 0.21685836089791705
+[===============================================================       ] 47/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.46341551848053075
+Rie     Portfolio variance: 0.2929428947816173
+IW      Portfolio variance: 0.2921780447673249
+Clipped Portfolio variance: 0.2845312747137334
+Shrunk  Portfolio variance: 0.2903691810600941
+Kendall Portfolio variance: 0.334214474839981
+TMFG    Portfolio variance: 0.25615413232445505
+[================================================================      ] 48/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.3370961318111205
+Rie     Portfolio variance: 0.21884611999516435
+IW      Portfolio variance: 0.21843071952347443
+Clipped Portfolio variance: 0.21403332721009857
+Shrunk  Portfolio variance: 0.23478417114853972
+Kendall Portfolio variance: 0.2778175343207143
+TMFG    Portfolio variance: 0.1938771888034172
+[=================================================================     ] 49/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.36672213907750717
+Rie     Portfolio variance: 0.2123656038515242
+IW      Portfolio variance: 0.21171438211750432
+Clipped Portfolio variance: 0.2034864062516049
+Shrunk  Portfolio variance: 0.20897450611981258
+Kendall Portfolio variance: 0.24245660784787748
+TMFG    Portfolio variance: 0.1578009304047668
+[===================================================================   ] 50/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.3266329277574009
+Rie     Portfolio variance: 0.2054985369137596
+IW      Portfolio variance: 0.20492056466092068
+Clipped Portfolio variance: 0.213995739544914
+Shrunk  Portfolio variance: 0.2041593683261181
+Kendall Portfolio variance: 0.26303546682987916
+TMFG    Portfolio variance: 0.21592968488588016
+[====================================================================  ] 51/ 52
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Sample  Portfolio variance: 0.35987359991620893
+Rie     Portfolio variance: 0.24370118567388205
+IW      Portfolio variance: 0.2433592235513941
+Clipped Portfolio variance: 0.22982390158010174
+Shrunk  Portfolio variance: 0.21988367220242983
+Kendall Portfolio variance: 0.24357050124343615
+TMFG    Portfolio variance: 0.23404561711982694
+
+SUMMARY STATISTICS OVER ROLLING WINDOWS
+
+STRATEGY |  METHOD |  MEAN VARIANCE       |  CV%
+---------------------------------------------------
+min_var  | Sample  | 3.84e-01 +/- 8.8e-02 | 22.9
+min_var  | Rie     | 3.31e-01 +/- 1.1e-01 | 34.0
+min_var  | IW      | 3.31e-01 +/- 1.1e-01 | 34.0
+min_var  | Clipped | 3.22e-01 +/- 1.1e-01 | 35.2
+min_var  | Shrunk  | 2.78e-01 +/- 8.8e-02 | 31.8
+min_var  | Kendall | 3.12e-01 +/- 1.0e-01 | 32.0
+min_var  | TMFG    | 2.69e-01 +/- 9.1e-02 | 33.8
+---------------------------------------------------
+---------------------------------------------------
