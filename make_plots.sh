@@ -35,7 +35,8 @@ for f in "${result_files[@]}"; do
 
   echo "Produco Plots: $f con lunghezza rolling = $len_rolling"
   python3 visualize_data.py $f --output Multiple_Boxplot --save True --len_rolling $len_rolling
-
-  # Esegui il tuo script Python passando anche il len_rolling se ti serve
-  # python3 visualize_data.py "$f" "$len_rolling"
+  
 done
+
+cd "$INPUT_DIR"/Plots
+open *

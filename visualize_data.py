@@ -1,7 +1,7 @@
 import argparse
 import os
 import sys
-FCA_path = os.path.expanduser("~/Desktop/UCL/CODE/Versione6")
+FCA_path = os.path.expanduser("~/Desktop/UCL/CODE/Versione7")
 sys.path.append(FCA_path)
 
 import financial_test as FCA
