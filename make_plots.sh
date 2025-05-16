@@ -51,6 +51,14 @@ for f in "${result_files[@]}"; do
     --training_size "$training_size" \
     --plots_dir "$PLOTS_DIR" \
     --log_scale True
+
+    python3 visualize_data.py "$f" \
+    --output Shrinkage_Boxplot \
+    --save True \
+    --len_rolling "$len_rolling" \
+    --training_size "$training_size" \
+    --plots_dir "$PLOTS_DIR" \
+    --log_scale True
 done
 
 # Elimina Directory Vuote
