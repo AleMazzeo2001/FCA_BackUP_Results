@@ -1,0 +1,3636 @@
+Train shape: (6, 400, 200)
+Validation shape: (6, 400, 60)
+Test shape: (6, 400, 60)
+[                                                                      ] 0/ 6
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 28.27719653505007
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.15149201675166446
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.14114309136020153
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.13608840418552237
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.13320155704854703
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.1314114906640645
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.1302623869994659
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.12953079733812767
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.12909548850086294
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.12888537257681518
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.12885602606649427
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.1289780384516987
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.12923073716676206
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.1295985956199285
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.1300693119472809
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.13063392571218216
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.13129252620623774
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.13208212259985402
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.13321417199703184
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.13597075123233182
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.15519674893684546
+Best alpha: 0.5
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 28.27719653505007
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.14464304752692408
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.13307470621897852
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.1267621523528047
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.1229241218730881
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.12043755289570493
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.11877540136000303
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.11766591062261944
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.11696119539781996
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.11658006125570228
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.11648115932762793
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.11665009223865523
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.11709382611788081
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.11783976332989542
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.11893892231429312
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.1204745498473746
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.12258106343097706
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.12548974426550386
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.12967188941152866
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.13656043372222537
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.15940933884762665
+Best alpha: 0.5
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.6753248404451286
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.16229443986775557
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.16152503074480418
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.16100721497467385
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.16059132060743295
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.16023127472063492
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.15990633898818235
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.15960511934553817
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.15932044524108396
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.15904728285656078
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.15878172726101436
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.15852043348293493
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.15826022953539237
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.15799778043130058
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.15772920376222715
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.15744950818459852
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.15715160201491643
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.15682422716711067
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.1564467381967462
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.15597131311853166
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.15519674893684546
+Best alpha: 1.0
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.6753248404451286
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.16379015022771887
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.16343860270288443
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.1631643084874101
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.1629383595223164
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.1627422527719187
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.16256552791536721
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.16240181770495704
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.1622469063762998
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.1620977550945138
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.16195196577435722
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.16180744548931716
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.1616621525476128
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.16151384718194628
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.1613597676594638
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.16119609978382693
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.16101693891154026
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.16081189754217146
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.16055937077908405
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.16020052595957854
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.15940933884762665
+Best alpha: 1.0
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 23.60793178702068
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.16229443986775693
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.1615250307448048
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.1610072149746742
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.16059132060743325
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.16023127472063514
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.1599063389881825
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.15960511934553828
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.15932044524108413
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.1590472828565609
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.1587817272610144
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.15852043348293499
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.15826022953539243
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.15799778043130056
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.1577292037622272
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.15744950818459857
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.15715160201491643
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.15682422716711072
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.1564467381967462
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.15597131311853168
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.15519674893684546
+Best alpha: 1.0
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 23.60793178702068
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.16379015022771953
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.16343860270288496
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.1631643084874102
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.1629383595223166
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.1627422527719187
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.16256552791536732
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.1624018177049571
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.1622469063762998
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.16209775509451385
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.16195196577435728
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.1618074454893172
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.16166215254761288
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.16151384718194634
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.1613597676594638
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.16119609978382687
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.16101693891154023
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.16081189754217146
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.16055937077908405
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.16020052595957854
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.15940933884762665
+Best alpha: 1.0
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.14407538779232715
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.1422671562395265
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.14147968409506467
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.1410613351654421
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.14080688836607616
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.14063734814416767
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.1405172703327889
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.14042822853241566
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.140358906235796
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.14030089197948462
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.14024661030390112
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.14018805060112183
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.14011570910895832
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.1400174361811649
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.13987704579702823
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.13967297623219882
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.13937935175387117
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.1389826217112033
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.13859344057438427
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.13929472165594664
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.15519674893684546
+Best alpha: 0.9
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.14407538779232715
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.14297435762880348
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.1419393164099964
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.14096251797527276
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.14003833623097073
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.13916308605760022
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.13833499768209417
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.13755434113287918
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.13682371723447068
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.13614855346725108
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.1355378713378992
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.13500543290247766
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.13457143876104785
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.1342650621527756
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.13412832891969806
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.13422241395707382
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.13463926460697684
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.13552951000250957
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.13720512078530625
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.14079629325825227
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.15940933884762665
+Best alpha: 0.7000000000000001
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.1307898480043196
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.12782423574323615
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.12742258698083386
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.12771707181732836
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.12827450913408703
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.1289548377027569
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.129703806569804
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.13049767335820314
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.13132474671298341
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.1321781113453644
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.1330522199741218
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.13394084844788473
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.13483538136564616
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.13572288474775598
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.136583640842282
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.13738827731701936
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.13809685673016378
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.13867403093272423
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.13920406685995337
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.1407349425684763
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.15519674893684549
+Best alpha: 0.1
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.1307898480043196
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.12999312072159608
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.12925752286990064
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.12857957049150828
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.12796410016185694
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.12741812687003312
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.12694956348980854
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.12656731106217617
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.12628177970800797
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.12610560945372692
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.12605458304239073
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.1261488178148521
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.1264144050565651
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.12688579857347734
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.1276095496994707
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.1286507745333686
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.13010628593341989
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.13213856959862505
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.13509904429698089
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.14023990874968717
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.15940933884762665
+Best alpha: 0.5
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 28.27719653505007
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.15149201675166446
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.14114309136020153
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.13608840418552237
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.13320155704854703
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.1314114906640645
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.1302623869994659
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.12953079733812767
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.12909548850086294
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.12888537257681518
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.12885602606649427
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.1289780384516987
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.12923073716676206
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.1295985956199285
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.1300693119472809
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.13063392571218216
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.13129252620623774
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.13208212259985402
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.13321417199703184
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.13597075123233182
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.15519674893684546
+Best alpha: 0.5
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 28.27719653505007
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.14464304752692408
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.13307470621897852
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.1267621523528047
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.1229241218730881
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.12043755289570493
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.11877540136000303
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.11766591062261944
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.11696119539781996
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.11658006125570228
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.11648115932762793
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.11665009223865523
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.11709382611788081
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.11783976332989542
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.11893892231429312
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.1204745498473746
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.12258106343097706
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.12548974426550386
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.12967188941152866
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.13656043372222537
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.15940933884762665
+Best alpha: 0.5
+
+
+
+min_var_ Sample_ Portfolio variance: 30.517739470731826
+min_var_ Rie____ Portfolio variance: 0.6020765979802374
+min_var_ IW_____ Portfolio variance: 15.748224380706672
+min_var_ Clipped Portfolio variance: 0.12763341643173864
+min_var_ Kendall Portfolio variance: 0.10947321490353873
+min_var_ TMFG___ Portfolio variance: 0.1089211216285203
+min_var_ Sample__SI Portfolio variance: 0.10394452560685195
+min_var_ Sample__SD Portfolio variance: 0.1025988054607482
+min_var_ Rie_____SI Portfolio variance: 0.12516142123882107
+min_var_ Rie_____SD Portfolio variance: 0.13034734378631413
+min_var_ IW______SI Portfolio variance: 0.12516142123882107
+min_var_ IW______SD Portfolio variance: 0.13034734378631413
+min_var_ Clipped_SI Portfolio variance: 0.1150453603831062
+min_var_ Clipped_SD Portfolio variance: 0.11168033239421092
+min_var_ Kendall_SI Portfolio variance: 0.1034479264550249
+min_var_ Kendall_SD Portfolio variance: 0.10096458638558911
+min_var_ TMFG____SI Portfolio variance: 0.10394452560685195
+min_var_ TMFG____SD Portfolio variance: 0.1025988054607482
+[===========                                                           ] 1/ 6
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 1347.9216925677138
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.3280080289158786
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.3218630165217451
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.319423586107654
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.3184704732324091
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.31832136684050805
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.31870926482721784
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.31951655404201706
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.3206917561689629
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.32221882095540305
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.3241049666185022
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.32637639806693436
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.32907828237145864
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.3322780411287608
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.336072639925577
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.3406028242687996
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.34608352850135904
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.35288495503600126
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.3618405881476472
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.37622103560730535
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.43676585773082516
+Best alpha: 0.25
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 1347.9216925677138
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.3176465071511313
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.3129549698916899
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.31128627466604675
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.3108262326661469
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.3110157105403416
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.3116523655231527
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.3126644209506356
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.31403879412157143
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.31579554934157106
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.3179792713291025
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.32065806934793395
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.32392726554722606
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.3279173536290043
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.3328073483650368
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.3388463453691437
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.3463892454591182
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.35596167415876706
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.36841722530397236
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.3858046430914048
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.43968366987277235
+Best alpha: 0.2
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 3.948880172533925
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.44561119302574054
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.4443523808858302
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.443549038790283
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.4429397063450565
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.4424385425844095
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.4420055710035916
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.44161870259108704
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.44126432401562693
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.4409333204998266
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.4406191268807609
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.4403166522149413
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.4400216078215149
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.4397300102625597
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.43943771204384235
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.43913980410440145
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.4388296025652771
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.4384964383549695
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.43811937501095666
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.4376414513243155
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.43676585773082516
+Best alpha: 1.0
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 3.948880172533925
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4418512717655399
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.44145159918471555
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4412241986430827
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.44106478297378465
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.44094056544651294
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.44083730949681615
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4407476166156761
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4406671310759813
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4405930149475658
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4405232355927071
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4404561864907878
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4403904539755105
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.44032464300115937
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.44025721014029573
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4401862575119249
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4401092244117265
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4400223705866457
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4399199282115599
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.43979402873471435
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.43968366987277235
+Best alpha: 1.0
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 246.55752710825053
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.44561119302574226
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.4443523808858309
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.4435490387902835
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.4429397063450567
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.44243854258440973
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.44200557100359195
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.4416187025910872
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.441264324015627
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.44093332049982686
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.440619126880761
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.4403166522149416
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.44002160782151495
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.43973001026255987
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.4394377120438423
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.4391398041044017
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.43882960256527703
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.43849643835496965
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.43811937501095666
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.43764145132431553
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.43676585773082516
+Best alpha: 1.0
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 246.55752710825053
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4418512717655405
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.44145159918471577
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.44122419864308277
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.44106478297378493
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.44094056544651294
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4408373094968159
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4407476166156761
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4406671310759813
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4405930149475658
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4405232355927071
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.44045618649078777
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4403904539755105
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.44032464300115964
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4402572101402957
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4401862575119253
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4401092244117266
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4400223705866456
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4399199282115599
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4397940287347144
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.43968366987277235
+Best alpha: 1.0
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.36123819434540183
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.3586249863731953
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.3575880077260698
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.3574709290734732
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.35794245176525896
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.3588194191400599
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.35999440256065407
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.36140216368111544
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.36300268357402543
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.36477197798044336
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.3666968419807255
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.36877165870957906
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.3709962623320059
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.3733742101297872
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.375910985255356
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.3786120152875275
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.38148272296202984
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.3845479307997385
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.3880172159167392
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.39382542832454553
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.43676585773082516
+Best alpha: 0.15000000000000002
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.36123819434540183
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.3606013109539279
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.36011188506680103
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.3597814942143934
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.35962423704981417
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.3596571241420637
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.3599006363486683
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.3603794489284977
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.36112333485060316
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.3621682650361374
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.36355771249357327
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.3653441268157158
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.3675904394719176
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.37037120557278136
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.37377239202381274
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.3778874490084133
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.3828042901548736
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.3885729697415593
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.3951597979472451
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.40290241174254543
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.43968366987277235
+Best alpha: 0.2
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.3771784417457872
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.3751568788547506
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.3735849913881635
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.3724501350438958
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.37169817552218676
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.37128416459445107
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.37117389158541453
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.37134174904465145
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.37176884770419616
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.3724416205100035
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.3733507892166857
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.3744905772542549
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.3758581175401311
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.3774531442333029
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.3792784789085286
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.3813432973651292
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.3836769022488047
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.3863863839034972
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.38993390508829784
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.39694740941169115
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.43676585773082544
+Best alpha: 0.30000000000000004
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.3771784417457872
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.3759557023163814
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.3748150363316582
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.3738455119832017
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.3730884115464962
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.3725645360014431
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.3722863303562284
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.37226382358952304
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.37250785561219857
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.3730320858361497
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.3738544935043392
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.3749987476946349
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.3764956855872221
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.3783851036682415
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.3807181555914846
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.38356110568709534
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.3870032634091586
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.3911827694655488
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.3964156826675515
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.4042359056791291
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.43968366987277235
+Best alpha: 0.35000000000000003
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 1347.9216925677138
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.3280080289158786
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.3218630165217451
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.319423586107654
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.3184704732324091
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.31832136684050805
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.31870926482721784
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.31951655404201706
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.3206917561689629
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.32221882095540305
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.3241049666185022
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.32637639806693436
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.32907828237145864
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.3322780411287608
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.336072639925577
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.3406028242687996
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.34608352850135904
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.35288495503600126
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.3618405881476472
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.37622103560730535
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.43676585773082516
+Best alpha: 0.25
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 1347.9216925677138
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.3176465071511313
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.3129549698916899
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.31128627466604675
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.3108262326661469
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.3110157105403416
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.3116523655231527
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.3126644209506356
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.31403879412157143
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.31579554934157106
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.3179792713291025
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.32065806934793395
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.32392726554722606
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.3279173536290043
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.3328073483650368
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.3388463453691437
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.3463892454591182
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.35596167415876706
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.36841722530397236
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.3858046430914048
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.43968366987277235
+Best alpha: 0.2
+
+
+
+min_var_ Sample_ Portfolio variance: 2363.4437622035193
+min_var_ Rie____ Portfolio variance: 7.126428186559129
+min_var_ IW_____ Portfolio variance: 362.86822182721755
+min_var_ Clipped Portfolio variance: 0.17955909627359393
+min_var_ Kendall Portfolio variance: 0.17119131557888284
+min_var_ TMFG___ Portfolio variance: 0.1393621108591506
+min_var_ Sample__SI Portfolio variance: 0.12159874770555082
+min_var_ Sample__SD Portfolio variance: 0.13924043662450278
+min_var_ Rie_____SI Portfolio variance: 0.19499144342893593
+min_var_ Rie_____SD Portfolio variance: 0.19227707385898943
+min_var_ IW______SI Portfolio variance: 0.19499144342893593
+min_var_ IW______SD Portfolio variance: 0.19227707385898943
+min_var_ Clipped_SI Portfolio variance: 0.16287095318495834
+min_var_ Clipped_SD Portfolio variance: 0.1696379231953356
+min_var_ Kendall_SI Portfolio variance: 0.14580667974403874
+min_var_ Kendall_SD Portfolio variance: 0.1471984079537924
+min_var_ TMFG____SI Portfolio variance: 0.12159874770555082
+min_var_ TMFG____SD Portfolio variance: 0.13924043662450278
+[=======================                                               ] 2/ 6
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 6.467873817090062
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.6519077162674344
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.627786043080405
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.614716390209904
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.6068192615433843
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.6018417406343255
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.5987049842915986
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.5968205592154944
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.5958392114579554
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.5955416062901938
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.5957850991316583
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.5964756923174106
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.597552531052552
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.5989792468620216
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.6007394299697372
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.6028348690937659
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.6052856440839054
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.6081302203355617
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.6114183747603217
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.6151956046593317
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.6237584018828749
+Best alpha: 0.45
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 6.467873817090062
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.6623335489140887
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.6392011952923461
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.6254405959860698
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.6166164549405733
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.6108195931828042
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.6070703154121195
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.6048110815503124
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.6037041453862924
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.6035387039384688
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.6041843342176915
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.6055665922699947
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.6076545211687603
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.6104554648958348
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.614015154651278
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.6184221707437552
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.6238155414201652
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.630389159371318
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.6383576655401542
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.6476590047046921
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.6568201051911465
+Best alpha: 0.45
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 3.0623181145928067
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.6378189262197431
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.635588391786388
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.6341398300623509
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.633063786990965
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.6322039508130202
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.6314827458646652
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.6308557617246636
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.6302949666335498
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.6297812523096467
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.6293006707313877
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.6288423260630243
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.6283970637911775
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.6279565416101586
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.6275124382833173
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.627055597931174
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.626574830837348
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.6260547636439795
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.6254708531141322
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.6247727057139073
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.6237584018828749
+Best alpha: 1.0
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 3.0623181145928067
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.6562679620718685
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.6565247754822215
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.6566319386299846
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.6566872892581053
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.6567195343845935
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.6567400529776282
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.6567542028315808
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.6567648288643635
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.6567735947634475
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.6567815642126584
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.656789484247524
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.6567979384078897
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.6568074396633441
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.6568184948626942
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.6568316531634104
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.6568475272119569
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.6568666910576539
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.6568888871386994
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.6569071618200402
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.6568201051911465
+Best alpha: 0.05
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 1.7338147578566172
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.6378189262197453
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.6355883917863888
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.6341398300623513
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.6330637869909655
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.6322039508130208
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.6314827458646656
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.6308557617246638
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.6302949666335498
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.629781252309647
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.6293006707313877
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.6288423260630243
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.6283970637911775
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.6279565416101587
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.6275124382833173
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.6270555979311743
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.626574830837348
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.6260547636439797
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.625470853114132
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.6247727057139074
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.6237584018828749
+Best alpha: 1.0
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 1.7338147578566172
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.6562679620718681
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.6565247754822212
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.6566319386299839
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.6566872892581055
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.6567195343845934
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.6567400529776282
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.6567542028315805
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.6567648288643633
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.6567735947634477
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.6567815642126582
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.6567894842475239
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.6567979384078897
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.6568074396633441
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.6568184948626944
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.6568316531634104
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.6568475272119568
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.6568666910576542
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.6568888871386994
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.6569071618200402
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.6568201051911465
+Best alpha: 0.05
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.691327832988111
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.6798402654260101
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.6726575130346983
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.6677972653035972
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.664335758282868
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.661773856280222
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.65981224244207
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.6582559537347432
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.6569684049645632
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.6558469285409376
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.6548085119644831
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.6537805784025311
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.6526941382254533
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.6514775972752063
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.6500495948777417
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.648308340535349
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.6461117367987752
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.6432319422440724
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.6392274195553985
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.633000393596034
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.6237584018828749
+Best alpha: 1.0
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.691327832988111
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.6892326760723744
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.6872866418529244
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.6854692166553313
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.6837644458922033
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.6821600827564298
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.6806470068983103
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.6792188373378556
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.677871684331654
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.6766039910069791
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.6754164046497726
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.6743115782381662
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.6732937056551684
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.6723673653072461
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.6715346939888863
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.6707884895626799
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.6700948150886369
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.6693456521731536
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.6682108529553287
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.6655445350989877
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.6568201051911465
+Best alpha: 1.0
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.6770915458820281
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.6695705996651171
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.6650229072882556
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.6618324810303595
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.6593841460188017
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.6573805587803632
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.6556576328671877
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.6541156400339381
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.6526886760382213
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.6513293830553811
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.6500004312884218
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.6486691242679573
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.6473032973163905
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.6458672965047005
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.6443167632247502
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.6425900632724216
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.6405913985393972
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.638151855937739
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.6349240681168127
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.6300645666221294
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.6237584018828753
+Best alpha: 1.0
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.6770915458820281
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.6736691805272588
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.6709240877980764
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.6686465158900042
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.6667290898642049
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.6651057143333632
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.6637337116613511
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.6625852253375086
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.6616424295296567
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.6608946498558772
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.6603365070171585
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.6599665689300862
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.6597861071326053
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.6597974625043179
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.6600011256113361
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.6603895084114575
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.6609321532992771
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.6615368090208735
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.6619316497158404
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.661224391452713
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.6568201051911465
+Best alpha: 1.0
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 6.467873817090062
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.6519077162674344
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.627786043080405
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.614716390209904
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.6068192615433843
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.6018417406343255
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.5987049842915986
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.5968205592154944
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.5958392114579554
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.5955416062901938
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.5957850991316583
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.5964756923174106
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.597552531052552
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.5989792468620216
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.6007394299697372
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.6028348690937659
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.6052856440839054
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.6081302203355617
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.6114183747603217
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.6151956046593317
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.6237584018828749
+Best alpha: 0.45
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 6.467873817090062
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.6623335489140887
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.6392011952923461
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.6254405959860698
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.6166164549405733
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.6108195931828042
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.6070703154121195
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.6048110815503124
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.6037041453862924
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.6035387039384688
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.6041843342176915
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.6055665922699947
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.6076545211687603
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.6104554648958348
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.614015154651278
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.6184221707437552
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.6238155414201652
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.630389159371318
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.6383576655401542
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.6476590047046921
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.6568201051911465
+Best alpha: 0.45
+
+
+
+min_var_ Sample_ Portfolio variance: 14.007520039575141
+min_var_ Rie____ Portfolio variance: 3.3990489448427046
+min_var_ IW_____ Portfolio variance: 3.0005149999946115
+min_var_ Clipped Portfolio variance: 0.311171422348099
+min_var_ Kendall Portfolio variance: 0.3176286535877092
+min_var_ TMFG___ Portfolio variance: 0.2633260964830374
+min_var_ Sample__SI Portfolio variance: 0.28771270569907803
+min_var_ Sample__SD Portfolio variance: 0.2796315545856045
+min_var_ Rie_____SI Portfolio variance: 0.3350766652937261
+min_var_ Rie_____SD Portfolio variance: 0.34559139428656893
+min_var_ IW______SI Portfolio variance: 0.3350766652937261
+min_var_ IW______SD Portfolio variance: 0.3455913942865684
+min_var_ Clipped_SI Portfolio variance: 0.3350766652937261
+min_var_ Clipped_SD Portfolio variance: 0.34212521045755806
+min_var_ Kendall_SI Portfolio variance: 0.3350766652937264
+min_var_ Kendall_SD Portfolio variance: 0.34212521045755806
+min_var_ TMFG____SI Portfolio variance: 0.28771270569907803
+min_var_ TMFG____SD Portfolio variance: 0.2796315545856045
+[===================================                                   ] 3/ 6
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 15.910650863713002
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.24599670202616927
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.2264091105591109
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.21626988889302462
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.21033796180755754
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.20673596692344162
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.204603255543998
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.20348720693377612
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.203129645334745
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.20337686124266474
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.20413680920554456
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.20535696881688148
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.2070121557895213
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.20909724810426084
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.21162167678865978
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.21460203533147146
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.21804482435900285
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.22189589250514558
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.2258835235182869
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.22920284970912458
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.25720796073480584
+Best alpha: 0.4
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 15.910650863713002
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.25828830324285784
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.24075301373423663
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.23129335679210328
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.22560668105324294
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.222085011243391
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.21998034343230433
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.21889826054303993
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.21861678895949965
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.21900996934661285
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.22001198762478558
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.22159939194461914
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.22378234971799407
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.22660072645614887
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.2301222112435716
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.23443858461838377
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.23964980164027355
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.2458013310904899
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.2526454954769892
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.2587702603144647
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.27329570881212334
+Best alpha: 0.4
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 14.802952373414694
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.2625962648725415
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.261604680919174
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.2609822029065324
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.26052117175814743
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.26015442329494776
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.2598504385878033
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.2595915505611092
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.2593667360885067
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.2591685880305126
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.25899183358997824
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.2588325214122187
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.2586875249428947
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.2585541940829558
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.2584300511491896
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.2583124254645246
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.258197830397599
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.25808052641217494
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.2579481014326761
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.25776122470361396
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.25720796073480584
+Best alpha: 1.0
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 14.802952373414694
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.27409330242821334
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.274138298167008
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.27414547790049176
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.2741316169853384
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.27410641410403225
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.2740748414092068
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.27403956253443307
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.274002039765183
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.2739630594160274
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.2739229944322629
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.27388193733788097
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.27383976106147756
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.273796131063921
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.2737504725368714
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.2737018777897595
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.27364890718833046
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.2735891587710718
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.27351824089190774
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.273426909172774
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.27329570881212334
+Best alpha: 1.0
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 54.761994187221546
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.26259626487254184
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.26160468091917444
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.2609822029065327
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.2605211717581478
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.26015442329494803
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.25985043858780354
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.2595915505611094
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.2593667360885069
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.2591685880305128
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.2589918335899783
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.2588325214122187
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.2586875249428948
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.25855419408295593
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.2584300511491898
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.2583124254645246
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.25819783039759914
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.25808052641217505
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.2579481014326761
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.25776122470361407
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.25720796073480584
+Best alpha: 1.0
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 54.761994187221546
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.2740933024282127
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.27413829816700774
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.2741454779004917
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.2741316169853384
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.2741064141040324
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.27407484140920657
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.27403956253443296
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.274002039765183
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.2739630594160274
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.27392299443226276
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.2738819373378809
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.2738397610614776
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.2737961310639211
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.27375047253687135
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.27370187778975946
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.27364890718833057
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.2735891587710718
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.2735182408919077
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.273426909172774
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.27329570881212334
+Best alpha: 1.0
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.23938832174221572
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.22610048651428885
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.21873149404301603
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.21409631449186364
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.21101974276515745
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.20896435406511113
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.20765185265783004
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.20692779265339623
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.20670468920153373
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.20693529924062204
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.20759907659114585
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.2086948892095668
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.21023672337672675
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.2122503114495366
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.2147684378598052
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.21782070887304103
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.22140739099177612
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.22542856849345
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.22948942407403494
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.23258025131258214
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.25720796073480584
+Best alpha: 0.4
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.23938832174221572
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.23924727871676216
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.23910360041374432
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.23897667324462274
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.23888634248232382
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.2388538579764058
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.2389028412976405
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.2390603324409355
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.23935796936746417
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.2398333441064457
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.24053155418162636
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.24150690210062714
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.242824526251111
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.24456131627168323
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.24680435416790628
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.24964212574977818
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.2531351203473549
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.25722537184123573
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.26145252455892326
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.2641039344549662
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.27329570881212334
+Best alpha: 0.25
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.2492642184334121
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.23620293532360598
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.22960997658366392
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.22577710240247323
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.22345457434369778
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.22209020001293509
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.2213995456020093
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.2212208474777253
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.22145559191059377
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.22204062673096298
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.22293347313664325
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.22410351062273437
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.2255255278818532
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.22717335297868413
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.22901109816470264
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.2309778138607093
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.2329565251131548
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.2347073449909495
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.23573524485010217
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.23545439056573042
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.25720796073480573
+Best alpha: 0.35000000000000003
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.2492642184334121
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.24649259536352613
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.2443762657040218
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.2427506704447568
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.2415230014359407
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.2406408661871166
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.2400764569266309
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.2398182673611826
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.23986668755495538
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.2402316745424568
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.24093154981982934
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.24199232415084831
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.2434469796255087
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.24533381193261233
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.24769192013966235
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.25054919366538325
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.2538905927976899
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.25757265508905314
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.26108893293897584
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.26309354694776577
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.27329570881212334
+Best alpha: 0.35000000000000003
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 15.910650863713002
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.24599670202616927
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.2264091105591109
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.21626988889302462
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.21033796180755754
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.20673596692344162
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.204603255543998
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.20348720693377612
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.203129645334745
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.20337686124266474
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.20413680920554456
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.20535696881688148
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.2070121557895213
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.20909724810426084
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.21162167678865978
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.21460203533147146
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.21804482435900285
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.22189589250514558
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.2258835235182869
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.22920284970912458
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.25720796073480584
+Best alpha: 0.4
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 15.910650863713002
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.25828830324285784
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.24075301373423663
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.23129335679210328
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.22560668105324294
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.222085011243391
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.21998034343230433
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.21889826054303993
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.21861678895949965
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.21900996934661285
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.22001198762478558
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.22159939194461914
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.22378234971799407
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.22660072645614887
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.2301222112435716
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.23443858461838377
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.23964980164027355
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.2458013310904899
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.2526454954769892
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.2587702603144647
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.27329570881212334
+Best alpha: 0.4
+
+
+
+min_var_ Sample_ Portfolio variance: 19.272545832077896
+min_var_ Rie____ Portfolio variance: 13.1890520256879
+min_var_ IW_____ Portfolio variance: 46.018368967634466
+min_var_ Clipped Portfolio variance: 0.24996060926040992
+min_var_ Kendall Portfolio variance: 0.22014101582966578
+min_var_ TMFG___ Portfolio variance: 0.2462712617345314
+min_var_ Sample__SI Portfolio variance: 0.1972475234651957
+min_var_ Sample__SD Portfolio variance: 0.2023628443208324
+min_var_ Rie_____SI Portfolio variance: 0.23911307585773955
+min_var_ Rie_____SD Portfolio variance: 0.25050549828306823
+min_var_ IW______SI Portfolio variance: 0.23911307585773955
+min_var_ IW______SD Portfolio variance: 0.25050549828306823
+min_var_ Clipped_SI Portfolio variance: 0.22425951678766004
+min_var_ Clipped_SD Portfolio variance: 0.24201790673458312
+min_var_ Kendall_SI Portfolio variance: 0.204049574207513
+min_var_ Kendall_SD Portfolio variance: 0.21048825566209634
+min_var_ TMFG____SI Portfolio variance: 0.1972475234651957
+min_var_ TMFG____SD Portfolio variance: 0.2023628443208324
+[==============================================                        ] 4/ 6
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 939.6582875173419
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.5198861234599348
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.4825714953989143
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.4616361887005611
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.4480251681355608
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.4385374905246189
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.4317233394999894
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.4268293577383955
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.42343313626231766
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.42129164504199623
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.4202708356563798
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.42031095978774274
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.4214097794424502
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.4236160484626237
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.42702977239728596
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.43180695882285325
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.43816405723322255
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.4463620447821265
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.4565729412563652
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.46809722167702517
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.4832516051758179
+Best alpha: 0.5
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 939.6582875173419
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.5547265004367204
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.5125935072619259
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.4877225115022346
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.4708365035918354
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.4585171461913259
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.4491738704887486
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.44195914945310055
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.4363843724455688
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.43215866353247934
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.42911379324718185
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.4271678637233173
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.42630944779284574
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.4265950869770536
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.42815849097540426
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.43123354168807804
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.4361968817094543
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.4436382518703643
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.4544510126050038
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.4698000092177244
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.4991941476772777
+Best alpha: 0.6000000000000001
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 2.485036860565225
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.4902828515604115
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.48961480409167224
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.48928552478183235
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.4890754781781277
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.4889224400170755
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.4887998242766288
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.4886936283671609
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.488595300527237
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.48849888091501126
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.4883996170878171
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.48829314972317683
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.4881748950146908
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.4880394039924776
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.48787947197190606
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.48768459893924937
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.48743783752626635
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.48710813635810357
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.4866270597982688
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.48578728094868867
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.4832516051758179
+Best alpha: 1.0
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 2.485036860565225
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4979207636033033
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4982750439455425
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4985391070164621
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4987525465588006
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4989326941839063
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4990894214207884
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4992289797078235
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4993556117892933
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4994723492707318
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4995814432249699
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.49968460508343665
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4997831323819129
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.49987794166560934
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.49996948471808567
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.500057441062963
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.5001398462730557
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.5002104755981167
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.5002493866478989
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.5001740638302177
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.4991941476772777
+Best alpha: 0.05
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 11863.825505894802
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.4902828515604125
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.4896148040916727
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.4892855247818327
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.48907547817812813
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.48892244001707563
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.4887998242766287
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.48869362836716107
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.4885953005272369
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.4884988809150113
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.4883996170878171
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.4882931497231769
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.4881748950146906
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.4880394039924776
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.48787947197190595
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.4876845989392494
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.48743783752626635
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.48710813635810346
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.4866270597982686
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.4857872809486885
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.4832516051758179
+Best alpha: 1.0
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 11863.825505894802
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4979207636033034
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4982750439455425
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4985391070164621
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.49875254655880075
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.49893269418390634
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4990894214207883
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4992289797078236
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.49935561178929316
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4994723492707318
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4995814432249701
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4996846050834365
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.49978313238191296
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4998779416656095
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.49996948471808567
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.5000574410629631
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.5001398462730555
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.5002104755981169
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.500249386647899
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.5001740638302177
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.4991941476772777
+Best alpha: 0.05
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.5345541485273062
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.5176691542856311
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.5067034134872459
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.4988871257834676
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.49302603768981884
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.488510432664203
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.4849969469786416
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.4822811228543192
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.48023871772922866
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.4787959623890984
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.47791338737098715
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.47757641567269754
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.47778919023329414
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.47856914288310815
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.47993931816006036
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.48191263199789847
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.4844532401642131
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.4873701426447621
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.489979567772924
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.4897882328942198
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.4832516051758179
+Best alpha: 0.55
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.5345541485273062
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.5289894458999408
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.5237414771556469
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.5187598706207132
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.5140125189689561
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.5094820759277404
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.505164109200388
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.5010664340196421
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.49720938545686044
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.4936269270145467
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.4903685786150541
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.4875021891548598
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.4851175557092662
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.48333071865884586
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.4822881869975384
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.4821686050733115
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.483173931203599
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.48548356423716904
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.4890709900577021
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.4929470782500187
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.4991941476772777
+Best alpha: 0.75
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.46615101998989145
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.45233607378009266
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.44410608071628427
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.43876148287232897
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.4351984335595466
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.4328682739204775
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.4314681286223062
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.4308215311158597
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.43082484036195856
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.43142081292665113
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.4325849405533416
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.4343185004934698
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.43664553892456515
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.43961235925680786
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.4432884214562279
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.44776665492657297
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.4531569119868383
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.45954948239775334
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.4668542093145908
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.4740977889043647
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.48325160517581767
+Best alpha: 0.35000000000000003
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.46615101998989145
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.4579882307751073
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.451870730484972
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.4471124437179628
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.4433689405936612
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.44043758683038975
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.43819307365941906
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.43655847840111184
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.4354907657630149
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.4349734746359723
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.43501362736040416
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.43564164109953984
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.43691390764977867
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.43891829712409625
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.4417833360277197
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.44569215766390846
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.45090174614176554
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.4577625618605058
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.46670513954705695
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.47806973822521653
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.4991941476772777
+Best alpha: 0.45
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 939.6582875173419
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.5198861234599348
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.4825714953989143
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.4616361887005611
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.4480251681355608
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.4385374905246189
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.4317233394999894
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.4268293577383955
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.42343313626231766
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.42129164504199623
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.4202708356563798
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.42031095978774274
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.4214097794424502
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.4236160484626237
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.42702977239728596
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.43180695882285325
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.43816405723322255
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.4463620447821265
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.4565729412563652
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.46809722167702517
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.4832516051758179
+Best alpha: 0.5
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 939.6582875173419
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.5547265004367204
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.5125935072619259
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.4877225115022346
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.4708365035918354
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.4585171461913259
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.4491738704887486
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.44195914945310055
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.4363843724455688
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.43215866353247934
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.42911379324718185
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.4271678637233173
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.42630944779284574
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.4265950869770536
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.42815849097540426
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.43123354168807804
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.4361968817094543
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.4436382518703643
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.4544510126050038
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.4698000092177244
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.4991941476772777
+Best alpha: 0.6000000000000001
+
+
+
+min_var_ Sample_ Portfolio variance: 1496.3590570307065
+min_var_ Rie____ Portfolio variance: 3.2397531437710274
+min_var_ IW_____ Portfolio variance: 11710.158109289556
+min_var_ Clipped Portfolio variance: 0.48361392104817835
+min_var_ Kendall Portfolio variance: 0.3817635796478303
+min_var_ TMFG___ Portfolio variance: 0.3547461618392068
+min_var_ Sample__SI Portfolio variance: 0.28147763184686525
+min_var_ Sample__SD Portfolio variance: 0.3064383490710207
+min_var_ Rie_____SI Portfolio variance: 0.3727702481393871
+min_var_ Rie_____SD Portfolio variance: 0.3782724253164155
+min_var_ IW______SI Portfolio variance: 0.3727702481393871
+min_var_ IW______SD Portfolio variance: 0.378272425316416
+min_var_ Clipped_SI Portfolio variance: 0.35404130969420045
+min_var_ Clipped_SD Portfolio variance: 0.38613172067460544
+min_var_ Kendall_SI Portfolio variance: 0.3294167042802003
+min_var_ Kendall_SD Portfolio variance: 0.347746940697931
+min_var_ TMFG____SI Portfolio variance: 0.28147763184686525
+min_var_ TMFG____SD Portfolio variance: 0.3064383490710207
+[==========================================================            ] 5/ 6
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Norma del vettore g: 20.0
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 29.73554874841148
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.1835096297568456
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.1602026750013273
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.14771985966389647
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.13989853531561816
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.13457024153166164
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.1307547417913471
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.12793881256171605
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.1258275353410212
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.12424151550515475
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.12306915110279518
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.12224309081730844
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.12172907231230021
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.12152269878962084
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.12165364475255103
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.12220087862190121
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.12333138208427671
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.12540448343810653
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.12932151789753427
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.13832612004378225
+Norma del vettore g: 20.0
+min_var_ Sample__SI Portfolio variance: 0.18497405391935842
+Best alpha: 0.65
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 29.73554874841148
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.21441466509039345
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.19117630606068867
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.17782408204166567
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.1688275231576465
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.162227106406085
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.15712727437508683
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.1530500279153261
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.14971347568876064
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.14694075976565252
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.14461781489297038
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.14267255325400247
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.14106513239623106
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.13978556419588478
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.13885855585768514
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.1383594868227182
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.13845429484680497
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.13950488206298484
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.14240887106711983
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.15021854875935037
+Norma del vettore g: 20.0
+min_var_ Sample__SD Portfolio variance: 0.18937476757219773
+Best alpha: 0.75
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 1.4172524250663239
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.1920418074852531
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.1908178979809475
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.19010510545110404
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.18960498175455193
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.18922036029072659
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.18890716807150243
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.18864163514318563
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.1884094253749992
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.18820113624012857
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.1880101321267937
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.1878313618327785
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.18766061673629322
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.1874939617599271
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.1873271520631489
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.18715480813750374
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.18696889339434197
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.1867552478225185
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.18648375394349218
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.1860690972342483
+Norma del vettore g: 20.0
+min_var_ Rie_____SI Portfolio variance: 0.18497405391935842
+Best alpha: 1.0
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 1.4172524250663239
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.1871099911552393
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.18722629111916428
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.18736311188531468
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.1875002658078883
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.1876336055014809
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.1877622695006625
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.18788636497426456
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.18800632746093476
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.18812270747851412
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.1882360956773574
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.18834710110222885
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.18845635342468353
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.18856451898903193
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.18867232815559587
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.18878061489972067
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.18889036937720638
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.1890027901519612
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.18911923516697737
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.18924048846560276
+Norma del vettore g: 20.0
+min_var_ Rie_____SD Portfolio variance: 0.18937476757219773
+Best alpha: 0.05
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 2.992095816055545
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.19204180748525407
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.190817897980948
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.19010510545110432
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.18960498175455215
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.18922036029072672
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.18890716807150248
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.18864163514318572
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.1884094253749993
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.18820113624012863
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.18801013212679382
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.1878313618327785
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.1876606167362933
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.18749396175992714
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.1873271520631489
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.1871548081375038
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.18696889339434195
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.1867552478225185
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.1864837539434922
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.18606909723424833
+Norma del vettore g: 20.0
+min_var_ IW______SI Portfolio variance: 0.18497405391935842
+Best alpha: 1.0
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 2.992095816055545
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.187109991155239
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.18722629111916395
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.18736311188531463
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.18750026580788837
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.18763360550148084
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.18776226950066252
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.18788636497426456
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.18800632746093465
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.1881227074785141
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.18823609567735738
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.1883471011022288
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.1884563534246836
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.18856451898903193
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.18867232815559595
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.18878061489972073
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.18889036937720638
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.1890027901519612
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.18911923516697743
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.1892404884656027
+Norma del vettore g: 20.0
+min_var_ IW______SD Portfolio variance: 0.18937476757219773
+Best alpha: 0.05
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.229735146918704
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.21531564093909383
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.20486472197203176
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.19660910804075873
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.1897316131402623
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.18379244800619812
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.17852997277833052
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.17377751118218115
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.16942393872033862
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.16539339336304648
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.1616344083007823
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.1581143234457734
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.15481727305466986
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.15174546679186177
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.14892491169986247
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.1464194004268061
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.14436395581810796
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.14305510810541444
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.1432597287512219
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.14783198014591417
+Norma del vettore g: 20.0
+min_var_ Clipped_SI Portfolio variance: 0.18497405391935842
+Best alpha: 0.8500000000000001
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.229735146918704
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.2256269386066453
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.22153887774798606
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.2174508360672887
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.21334579302592954
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.20920953672855386
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.20503061506169012
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.20080054458678295
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.1965143213817121
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.19217132494349598
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.18777677654281144
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.18334403093192536
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.17889819472146679
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.17448199074334897
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.17016571955618598
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.16606545947040946
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.16238016299690095
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.15948076476928297
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.15818572279736876
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.16106484321248704
+Norma del vettore g: 20.0
+min_var_ Clipped_SD Portfolio variance: 0.18937476757219773
+Best alpha: 0.9
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.23615010367684042
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.21434605990676256
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.20038457473742954
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.1901240235717239
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.1820257146036342
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.175345498842992
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.16966860620974594
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.1647428863878892
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.1604067714446083
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.1565543295834536
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.15311720832736253
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.15005541437822834
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.14735363372252383
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.14502217858994007
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.14310359059916303
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.14168901934990846
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.14095632883381393
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.14126821832252057
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.1434866577476716
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.15047701053110263
+Norma del vettore g: 20.0
+min_var_ Kendall_SI Portfolio variance: 0.18497405391935842
+Best alpha: 0.8
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.23615010367684042
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.22742110416236216
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.21977197700664436
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.21293032001879153
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.2067162321302721
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.20100331782630032
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.1956994154759517
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.19073606275681218
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.1860624697175905
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.18164215641201883
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.17745145101658416
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.1734796188830759
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.1697308632410736
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.16622906422811728
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.16302731209916183
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.1602270623203079
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.1580192902245272
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.1567845519214511
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.15739097529746054
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.16246947065737746
+Norma del vettore g: 20.0
+min_var_ Kendall_SD Portfolio variance: 0.18937476757219773
+Best alpha: 0.8500000000000001
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 29.73554874841148
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.1835096297568456
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.1602026750013273
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.14771985966389647
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.13989853531561816
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.13457024153166164
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.1307547417913471
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.12793881256171605
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.1258275353410212
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.12424151550515475
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.12306915110279518
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.12224309081730844
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.12172907231230021
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.12152269878962084
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.12165364475255103
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.12220087862190121
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.12333138208427671
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.12540448343810653
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.12932151789753427
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.13832612004378225
+Norma del vettore g: 20.0
+min_var_ TMFG____SI Portfolio variance: 0.18497405391935842
+Best alpha: 0.65
+
+
+
+Alphas: [0.   0.05 0.1  0.15 0.2  0.25 0.3  0.35 0.4  0.45 0.5  0.55 0.6  0.65
+ 0.7  0.75 0.8  0.85 0.9  0.95 1.  ]
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 29.73554874841148
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.21441466509039345
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.19117630606068867
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.17782408204166567
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.1688275231576465
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.162227106406085
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.15712727437508683
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.1530500279153261
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.14971347568876064
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.14694075976565252
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.14461781489297038
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.14267255325400247
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.14106513239623106
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.13978556419588478
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.13885855585768514
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.1383594868227182
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.13845429484680497
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.13950488206298484
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.14240887106711983
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.15021854875935037
+Norma del vettore g: 20.0
+min_var_ TMFG____SD Portfolio variance: 0.18937476757219773
+Best alpha: 0.75
+
+
+
+min_var_ Sample_ Portfolio variance: 26.501013182799454
+min_var_ Rie____ Portfolio variance: 1.3977617199447376
+min_var_ IW_____ Portfolio variance: 4.862282472624415
+min_var_ Clipped Portfolio variance: 0.23660938029457618
+min_var_ Kendall Portfolio variance: 0.23967202790965103
+min_var_ TMFG___ Portfolio variance: 0.18519959894736845
+min_var_ Sample__SI Portfolio variance: 0.16055990709015064
+min_var_ Sample__SD Portfolio variance: 0.1673831115421067
+min_var_ Rie_____SI Portfolio variance: 0.1992845883631994
+min_var_ Rie_____SD Portfolio variance: 0.21150668414487425
+min_var_ IW______SI Portfolio variance: 0.1992845883631994
+min_var_ IW______SD Portfolio variance: 0.21150668414487347
+min_var_ Clipped_SI Portfolio variance: 0.18305434462732414
+min_var_ Clipped_SD Portfolio variance: 0.19420855291024486
+min_var_ Kendall_SI Portfolio variance: 0.18245936712386668
+min_var_ Kendall_SD Portfolio variance: 0.1911588765389745
+min_var_ TMFG____SI Portfolio variance: 0.16055990709015064
+min_var_ TMFG____SD Portfolio variance: 0.1673831115421067
+
+SUMMARY STATISTICS OVER ROLLING WINDOWS
+
+STRATEGY |  METHOD |  MEAN VARIANCE       |  CV%
+---------------------------------------------------
+min_var_ | Sample_ | 6.58e+02 +/- 1.0e+03 | 155.3
+min_var_ | Rie____ | 4.83e+00 +/- 4.7e+00 | 96.9
+min_var_ | IW_____ | 2.02e+03 +/- 4.7e+03 | 234.6
+min_var_ | Clipped | 2.65e-01 +/- 1.2e-01 | 46.9
+min_var_ | Kendall | 2.40e-01 +/- 9.8e-02 | 41.0
+min_var_ | TMFG___ | 2.16e-01 +/- 9.0e-02 | 41.7
+min_var_ | Sample__SI | 1.92e-01 +/- 7.9e-02 | 40.9
+min_var_ | Sample__SD | 2.00e-01 +/- 8.0e-02 | 40.0
+min_var_ | Rie_____SI | 2.44e-01 +/- 9.3e-02 | 38.1
+min_var_ | Rie_____SD | 2.51e-01 +/- 9.5e-02 | 37.6
+min_var_ | IW______SI | 2.44e-01 +/- 9.3e-02 | 38.1
+min_var_ | IW______SD | 2.51e-01 +/- 9.5e-02 | 37.6
+min_var_ | Clipped_SI | 2.29e-01 +/- 9.6e-02 | 42.0
+min_var_ | Clipped_SD | 2.41e-01 +/- 1.1e-01 | 43.6
+min_var_ | Kendall_SI | 2.17e-01 +/- 9.6e-02 | 44.2
+min_var_ | Kendall_SD | 2.23e-01 +/- 1.0e-01 | 45.5
+min_var_ | TMFG____SI | 1.92e-01 +/- 7.9e-02 | 40.9
+min_var_ | TMFG____SD | 2.00e-01 +/- 8.0e-02 | 40.0
+---------------------------------------------------
+---------------------------------------------------
+
+
