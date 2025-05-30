@@ -52,3 +52,5 @@ while IFS= read -r f; do
 done < <(find "$INPUT_DIR" -type f -path "*/Q_*/Rolling_*/Rolling_*.txt")
 
 echo "File risultati salvato in: $RESULT_FILE"
+
+python3 plot_finali.py $INPUT_DIR
